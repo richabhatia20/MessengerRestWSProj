@@ -10,3 +10,6 @@ Dependencies (resolved using Maven):
 * jersey-guava 2.25.1
 * jersey-jsr166e 2.25.1
 * jersey-apache-connector 2.25.1
+
+Endpoint URLs
+http://localhost:8080/messenger/webapi/messages
