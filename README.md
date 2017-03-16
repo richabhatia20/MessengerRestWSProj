@@ -15,3 +15,5 @@ A Simple Messenger application developed with RESTful end points using JAX-RS an
 * http://localhost:8080/messenger/webapi/messages
 * http://localhost:8080/messenger/webapi/messages/test
 * http://localhost:8080/messenger/webapi/messages/1
+* http://localhost:8080/messenger/webapi/messages?start=1&size=1
+* http://localhost:8080/messenger/webapi/year?2017
