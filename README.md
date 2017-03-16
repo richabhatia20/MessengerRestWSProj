@@ -1,4 +1,4 @@
-# MessengerRestWSProj
+## MessengerRestWSProj
 A Simple Messenger application developed with RESTful end points using JAX-RS and Jersey framework
 
 Dependencies (resolved using Maven):
@@ -11,5 +11,6 @@ Dependencies (resolved using Maven):
 * jersey-jsr166e 2.25.1
 * jersey-apache-connector 2.25.1
 
-Endpoint URLs
-http://localhost:8080/messenger/webapi/messages
+# Endpoint URLs
+* http://localhost:8080/messenger/webapi/messages
+* http://localhost:8080/messenger/webapi/messages/test
