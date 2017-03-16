@@ -1,7 +1,7 @@
 # MessengerRestWSProj
 A Simple Messenger application developed with RESTful end points using JAX-RS and Jersey framework
 
-Dependencies (resolved using Maven):
+## Dependencies (resolved using Maven):
 * maven 1.7
 * jersey-common 2.25.1
 * jersey-client 2.25.1
